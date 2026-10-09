@@ -5,8 +5,6 @@ Python · Machine Learning · Backend Development · Internet of Things
 
 I enjoy building applications that connect data, machine learning, and software systems. Through academic projects and a bachelor's thesis internship, I have worked on image classification, personalized recommendations, backend APIs, and distributed IoT monitoring.
 
-My main programming language is Python. I am interested in understanding the whole application workflow: collecting and preparing data, evaluating models, implementing backend services, and making results accessible through interfaces.
-
 [LinkedIn](https://www.linkedin.com/in/matteo-picozzi29) · [Email](mailto:matteo2902@icloud.com)
 
 ## About me
